@@ -29,4 +29,4 @@ jobs:
           node-version: 21
 
       - run: npm install
-      - run: npm ci:build
+      - run: npm run ci:build
