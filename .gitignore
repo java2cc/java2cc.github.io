@@ -1,0 +1,5 @@
+/node_modules/
+/.idea/
+/src/.vuepress/.*
+/src/.vuepress/dist
+package-lock.json
